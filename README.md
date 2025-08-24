@@ -1,2 +1,2 @@
 # spam_mail_prediction
-spam mail  predictioon 
+spam mail  prediction 
