@@ -41,3 +41,13 @@ A strong linear baseline (e.g., Logistic Regression / Linear SVM) or Multinomial
 Calibrated decision thresholds (optional) to balance precision/recall
 
 The exact model and hyperparameters are captured in the accompanying notebook: spam_mail_prediction.ipynb.
+
+## Installation
+
+Clone the repository and install the required packages:
+
+```bash
+git clone https://github.com/<your-username>/spam-mail-prediction.git
+cd spam-mail-prediction
+pip install -r requirements.txt
+
